@@ -12,6 +12,7 @@ public class WinScreen extends Screen {
     private JLabel scoreLabel;
     private JLabel background;
 
+
     public WinScreen(Window window){
         super(window);
         initialize();
